@@ -6,7 +6,7 @@
 
 1. How to build an image from dockerfile:
 ```bash
-docker build -f Dockerfile -t cv_hw_2.dev .
+docker build -f Dockerfile.dev -t cv_hw_2.dev .
 ```
 
 2. For running development container:
